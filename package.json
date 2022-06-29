@@ -1,0 +1,24 @@
+{
+  "name": "opensea-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web3-Tutorials/Opensea-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Web3-Tutorials/Opensea-Bot/issues"
+  },
+  "homepage": "https://github.com/Web3-Tutorials/Opensea-Bot#readme",
+  "dependencies": {
+    "@0x/subproviders": "^6.6.5",
+    "opensea-js": "2.0.1",
+    "web3": "^1.7.3"
+  }
+}
